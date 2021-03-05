@@ -1,2 +1,2 @@
 # rsschool-cv
-https://vasiliyverevkin.io/rsschool-cv/
+https://VasiliyVerevkin.io/rsschool-cv/
